@@ -142,3 +142,11 @@ box-shadow: 0 4px 8px 0 rgba(0,0,0,0.5);
   list-style: none;
   padding: 20px;
 }
+
+.resume {
+  height: 300x;
+  width: 1200px;
+  margin: auto;
+  padding: 20px;
+
+}
